@@ -10,4 +10,8 @@ This is a menu driven calculator program written using C language that can perfo
 <br>
 4. Division
 <br>
- It can perform these operations continuously till the user exists. 
+ It can perform these operations continuously till the user exists.
+ <br>
+ Concepts used:
+ <br>
+Functions, Switch Case, Loops, Conditional Statements, User input/output and basic arithmetic operators. 
