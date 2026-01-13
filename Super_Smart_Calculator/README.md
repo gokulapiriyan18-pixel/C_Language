@@ -1,6 +1,8 @@
 # Super Smart  Calculator
 <br>
-This is a menu driven calculator program written using C language that can perform the following operations :
+This is a menu driven calculator program written using C language.
+<br>
+ ## It can perform the following operations :
 <br>
 1. Addition
 <br>
@@ -12,6 +14,10 @@ This is a menu driven calculator program written using C language that can perfo
 <br>
  It can perform these operations continuously till the user exists.
  <br>
- Concepts used:
+## Concepts used:
  <br>
 Functions, Switch Case, Loops, Conditional Statements, User input/output and basic arithmetic operators. 
+<br>
+## Author
+<br>
+Gokula Piriyan M A
