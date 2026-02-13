@@ -1,5 +1,5 @@
 # C_Language
-This repository is for C language related projects.
+This repository is for beginner friendly C language related projects.
 <br>
  Projects included : 
  <br>
